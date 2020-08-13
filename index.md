@@ -67,5 +67,5 @@ Dr. Xiansheng Hua, DAMO Academy, Alibaba Group, Hangzhou, China (huaxiansheng@gm
 
 Prof. Yazhou Yao, Nanjing University of Science and Technology, China (yazhou.yao@njust.edu.cn)
 
-Prof. Den Zeng, Shanghai University, China (dzeng@shu.edu.cn)
+Prof. Dan Zeng, Shanghai University, China (dzeng@shu.edu.cn)
 
