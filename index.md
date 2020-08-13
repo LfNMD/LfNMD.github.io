@@ -1,4 +1,4 @@
-![TMM_masthead](/Users/zerens/Downloads/TMM_masthead.png)
+![TMM_masthead](asserts/TMM_masthead.png)
 
 
 
