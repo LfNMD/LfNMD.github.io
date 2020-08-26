@@ -15,7 +15,7 @@ With the development of computing power and deep learning algorithms, we can pro
 
 This special issue serves as a forum for researchers all over the world to discuss their works and recent advances in learning from noisy web data. Both state-of-the-art articles, as well as comprehensive literature reviews, are welcome for submission. To provide readers of the special issue with an understanding of the most current issues in this field, we will invite one survey paper, which will undergo peer review. Papers addressing interesting real-world multimedia as well as computer vision applications are especially encouraged.
 
-The special issue seeks original contributions which address the challenges in learning from noisy web data. Possible topics include but are not limited to:
+The special issue seeks original contributions which address the challenges in learning from noisy multimedia data. Possible topics include but are not limited to:
 
 - Webly supervised visual classification, detection, segmentation, and feature learning
 
@@ -35,37 +35,34 @@ This special issue seeks contributions from all over the world, including univer
 
 
 
-#### Submission Guideline
+#### Submission Procedure
 
-Authors should prepare their manuscript according to the Guide for Authors available from the online submission page of the IEEE Transactions on Multimedia at https://journals.ieeeauthorcenter.ieee.org/submit-your-article-for-peer-review/the-ieee-article-submission-process. All papers will be peer-reviewed following the IEEE Transactions on Multimedia reviewing procedures.
+Papers should be formatted according to the IEEE Transactions on Multimedia guidelines for authors (http://www.signalprocessingsociety.org/tmm/tmm-author-info/). By submitting/resubmitting your manuscript to these Transactions, you are acknowledging that you accept the rules established for publication of manuscripts, including an agreement to pay all over-length page charges, color charges, and any other charges and fees associated with the publication of the manuscript. Manuscripts (both 1-column and 2-column versions are required) should be submitted electronically through the online IEEE manuscript submission system at http://mc.manuscriptcentral.com/tmm-ieee. All submitted papers will go through the same review process as the regular TMM paper submissions. Referees will consider originality, significance, technical soundness, clarity of exposition, and relevance to the special issue topics above.
 
 
 
 ####  The Proposed Schedule is given below
 
-- Paper submission due:  	   	  	    <font color=red>**Oct. 15, 2020**</font>
-- First review notification: 			 Jan. 15, 2021
-- Revision submission: 				    March 15, 2021
-- Second review notification: 	    May 15, 2021
-- Acceptance notification: 		     July 15, 2021
-
-
-
-#### Managing Guest Editor
-
-A/Prof. Jian Zhang, University of Technology Sydney, Australia ([jian.zhang@uts.edu.au](mailto:jian.zhang@uts.edu.au))
+- Paper submission due:  	   	  	    <font color=red>**Jan. 31, 2021**</font>
+- First review notification: 			Mar. 15, 2021
+- Revision due: 				                May 15, 2021
+- Second review notification: 	    Jun. 15, 2021
+- Final version due:                        Aug. 30, 2021
+- Publication date: 		                    Early, 2022
 
 
 
 #### Guest Editors
 
-Prof. Alan Hanjalic, Delft University of Technology, The Netherland ([A.Hanjalic@tudelft.nl](mailto:A.Hanjalic@tudelft.nl))
+Jian Zhang, University of Technology Sydney, Australia ([jian.zhang@uts.edu.au](mailto:jian.zhang@uts.edu.au)) **(Lead Editor)**
 
-Prof. Ramesh Jain, University of California - Irvine, CA, USA (jain@ics.uci.edu)
+Alan Hanjalic, Delft University of Technology, The Netherland ([A.Hanjalic@tudelft.nl](mailto:A.Hanjalic@tudelft.nl))
 
-Dr. Xiansheng Hua, DAMO Academy, Alibaba Group, Hangzhou, China (huaxiansheng@gmail.com)
+Ramesh Jain, University of California - Irvine, CA, USA (jain@ics.uci.edu)
 
-Prof. Yazhou Yao, Nanjing University of Science and Technology, China (yazhou.yao@njust.edu.cn)
+Xiansheng Hua, DAMO Academy, Alibaba Group, Hangzhou, China (huaxiansheng@gmail.com)
 
-Prof. Dan Zeng, Shanghai University, China (dzeng@shu.edu.cn)
+Yazhou Yao, Nanjing University of Science and Technology, China (yazhou.yao@njust.edu.cn)
+
+Dan Zeng, Shanghai University, China (dzeng@shu.edu.cn)
 
